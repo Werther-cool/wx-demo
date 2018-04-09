@@ -1,0 +1,4 @@
+<template name="item">
+123
+  <text>{{text}}</text>
+</template>
